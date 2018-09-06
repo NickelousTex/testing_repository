@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<img src="https://plot.ly/~nickeloustex/4.png?share_key=XbL5jS1S81uSSodFKMFurf" alt="basic_pie_chart" style="max-width: 100%;width: 600px;" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" data-plotly="nickeloustex/4" width="600">
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
